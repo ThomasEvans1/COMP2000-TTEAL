@@ -3,11 +3,17 @@ public class Names {
 		System.out.println("This group consists of:");
 		// Put your signature function on the below line!
 		PrintHarrisSig();
+		PrintTomSig();
 		// Put your signature function on the above line!
 	}
 	
 	public static void PrintHarrisSig() {
 		System.out.println(".--.     /\\                ____");
 		System.out.println("'--'    /__\\    (^._.^)~ <(o.o )>");
+		
+	}
+
+	public static void PrintTomSig(){
+		System.out.println("(===||:::::::::::::::> - Thomas Evans");
 	}
 }
