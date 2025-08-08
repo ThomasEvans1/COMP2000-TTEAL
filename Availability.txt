@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Thomas Evans: Monday 10-1, Sunday All Day
 Emmanuel Deng: Monday 11-Onwards, Wednesday, Thursday, Sunday 
-Neil Swin: Monday, Thurday 4pm onwards, Friday 12pm onwards, Tuesday All-day
-=======
+Neil Swin: Monday, Thursday 4pm onwards, Friday 12pm onwards, Tuesday All-day
 Thomas Evans: Monday 10-1, Sunday All Day;
 Emmanuel Deng: Monday 11-Onwards, Wednesday, Thursday, Sunday;
 Anzhelika Vyatkina: Monday - evenings, Tuesday - evenings, Friday - After Practical Class, Saturday - ALL DAY, Sunday - ALL DAY;
->>>>>>> bdcabe6aa2e21d540a1a05f9495352c60f7b0cf8
