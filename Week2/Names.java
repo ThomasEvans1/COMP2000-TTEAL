@@ -4,15 +4,25 @@ public class Names {
 		// Put your signature function on the below line!
 		PrintHarrisSig();
         PrintEmanSig();
+		PrintTomSig();
 		// Put your signature function on the above line!
 	}
 	
 	public static void PrintHarrisSig() {
 		System.out.println(".--.     /\\                ____");
 		System.out.println("'--'    /__\\    (^._.^)~ <(o.o )>");
+		
+	}
+
+	public static void PrintTomSig(){
+		System.out.println("(===||:::::::::::::::> - Thomas Evans");
 	}
 
     public static void PrintEmanSig(){
         System.out.println("Eman was here");
     }
+
+	public static void PrintBeer(){
+		System.out.println("Beer");
+	}
 }
