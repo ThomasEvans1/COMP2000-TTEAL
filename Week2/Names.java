@@ -33,7 +33,7 @@ public class Names {
 	}
 
 	public static void PrintAnzhelikaSig() {
-		System.out.println("=^･ω･^=");
+		System.out.println("Anzhelika < ------ > =^･ω･^=");
 	}
 
 }
