@@ -6,6 +6,8 @@ public class Names {
         PrintEmanSig();
 		PrintTomSig();
 		PrintLokiSig();
+		PrintAnzhelikaSig();
+		PrintBeer();
 		//PrintTevSig();
 		// Put your signature function on the above line!
 	}
@@ -30,6 +32,11 @@ public class Names {
 	public static void PrintBeer(){
 		System.out.println("Beer");
 	}
+
+	public static void PrintAnzhelikaSig() {
+		System.out.println("Anzhelika < ------ > =^･ω･^=");
+	}
+
 
 	// public static void PrintTevSig() {
 	// 	System.out.println("Ill uncomment this with my personal laptop once its on again")
