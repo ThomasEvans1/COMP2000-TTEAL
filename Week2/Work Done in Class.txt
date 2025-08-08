@@ -1,0 +1,3 @@
+After doing IRAT, TRAT and Discussions, we created a new group Repository to work on during classes, added a file for study times and 
+weekly topics, then created the Names class in which we put our own 'digital signature' and resolved any merge conflicts that appeared
+during the merge. Finally we each separately cloned the repository for the solo class work 

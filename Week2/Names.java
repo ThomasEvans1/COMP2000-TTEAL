@@ -23,6 +23,9 @@ public class Names {
         System.out.println("Eman was here");
     }
 
+	public static void PrintLokiSig() {
+		System.out.println("Was gonna write something creative but I lost the ability to do that, Lachlan Zou");
+	}
 	public static void PrintBeer(){
 		System.out.println("Beer");
 	}
