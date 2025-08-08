@@ -17,10 +17,6 @@ public class Names {
     }
 
 	public static void PrintBeer(){
-		System.out.println(".~~~~.\r\n" + //
-						   "i====i_\r\n" + //
-						   "|cccc|_)\r\n" + //
-						   "|cccc|   hjw\r\n" + //
-						   "`-==-'");
+		System.out.println("Beer");
 	}
 }
