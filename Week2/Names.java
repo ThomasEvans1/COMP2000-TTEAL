@@ -3,6 +3,7 @@ public class Names {
 		System.out.println("This group consists of:");
 		// Put your signature function on the below line!
 		PrintHarrisSig();
+        PrintEmanSig();
 		// Put your signature function on the above line!
 	}
 	
@@ -10,4 +11,8 @@ public class Names {
 		System.out.println(".--.     /\\                ____");
 		System.out.println("'--'    /__\\    (^._.^)~ <(o.o )>");
 	}
+
+    public static void PrintEmanSig(){
+        System.out.println("Eman was here");
+    }
 }
