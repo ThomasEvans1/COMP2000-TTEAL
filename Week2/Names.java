@@ -5,6 +5,7 @@ public class Names {
 		PrintHarrisSig();
         PrintEmanSig();
 		PrintTomSig();
+		PrintBeer();
 		// Put your signature function on the above line!
 	}
 	
