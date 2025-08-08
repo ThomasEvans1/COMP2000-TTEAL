@@ -5,6 +5,7 @@ public class Names {
 		PrintHarrisSig();
         PrintEmanSig();
 		PrintTomSig();
+		PrintLokiSig();
 		// Put your signature function on the above line!
 	}
 	
@@ -21,4 +22,8 @@ public class Names {
     public static void PrintEmanSig(){
         System.out.println("Eman was here");
     }
+
+	public static void PrintLokiSig() {
+		System.out.println("Was gonna write something creative but I lost the ability to do that, Lachlan Zou");
+	}
 }
