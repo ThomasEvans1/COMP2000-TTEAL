@@ -15,4 +15,12 @@ public class Names {
     public static void PrintEmanSig(){
         System.out.println("Eman was here");
     }
+
+	public static void PrintBeer(){
+		System.out.println(".~~~~.\r\n" + //
+						   "i====i_\r\n" + //
+						   "|cccc|_)\r\n" + //
+						   "|cccc|   hjw\r\n" + //
+						   "`-==-'");
+	}
 }
