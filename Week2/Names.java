@@ -8,7 +8,7 @@ public class Names {
 		PrintLokiSig();
 		PrintAnzhelikaSig();
 		PrintBeer();
-		//PrintTevSig();
+		PrintTevSig();
 		// Put your signature function on the above line!
 	}
 	
@@ -37,8 +37,7 @@ public class Names {
 		System.out.println("Anzhelika < ------ > =^･ω･^=");
 	}
 
-
-	// public static void PrintTevSig() {
-	// 	System.out.println("Ill uncomment this with my personal laptop once its on again")
-	// }
+	public static void PrintTevSig() {
+		System.out.println("Ill uncomment this with my personal laptop once its on again");
+	}
 }
